@@ -1,17 +1,18 @@
-# Natural-Language-Processing
-Natural Language Processing - Sentence Boundary Detection and Collocations 
+Natural-Language-Processing
+
 
 Sentence Boundary Detection:
 
-Extracted a total of 8 features from a given training dataset
+o	Extracted a total of 8 features from a given training dataset
 
-Trained the classifier
+o	Trained the classifier
 
-Tested and calculated the accuracy of the system 
+o	Tested and calculated the accuracy of the system 
 
 Collocations:
 
-Collected raw counts of unigrams and bigrams from a corpus
-Implemented the chi-square and PMI measures
+o	Collected raw counts of unigrams and bigrams from a corpus
+o	Implemented the chi-square and PMI measures
+
 
 
