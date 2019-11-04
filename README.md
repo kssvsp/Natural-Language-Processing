@@ -1,19 +1,19 @@
-Natural-Language-Processing
+## Natural-Language-Processing
 
 
-Sentence Boundary Detection:
+# Sentence Boundary Detection:
 
-o	Extracted a total of 8 features from a given training dataset
+* Extracted a total of 8 features from a given training dataset
 
-o	Trained the classifier
+* Trained the classifier
 
-o	Tested and calculated the accuracy of the system 
+* Tested and calculated the accuracy of the system 
 
-Collocations:
+# Collocations:
 
-o	Collected raw counts of unigrams and bigrams from a corpus
+* Collected raw counts of unigrams and bigrams from a corpus
 
-o	Implemented the chi-square and PMI measures
+* Implemented the chi-square and PMI measures
 
 
 
