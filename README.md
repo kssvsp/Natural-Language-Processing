@@ -1,7 +1,7 @@
-## Natural-Language-Processing
+# Natural-Language-Processing
 
 
-# Sentence Boundary Detection:
+## Sentence Boundary Detection:
 
 * Extracted a total of 8 features from a given training dataset
 
@@ -9,7 +9,7 @@
 
 * Tested and calculated the accuracy of the system 
 
-# Collocations:
+## Collocations:
 
 * Collected raw counts of unigrams and bigrams from a corpus
 
